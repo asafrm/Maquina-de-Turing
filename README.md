@@ -89,7 +89,7 @@ Os testes foram realizados no JFLAP.
 | 3 | `00111` | REJEITA | REJEITA | `q0 → q1 → q2 → q0 → q1 → q2 → q0 → q3 → q5` |
 
 ### Teste JFLAP
-![Uploading Teste JFLAP.jpg…]()
+<img width="762" height="445" alt="Teste JFLAP" src="https://github.com/user-attachments/assets/b097cbfc-0027-43cc-ae56-b56435e9b64f" />
 
 ---
 
