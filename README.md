@@ -88,6 +88,9 @@ Os testes foram realizados no JFLAP.
 | 2 | `000111` | ACEITA | ACEITA | `q0 → q1 → q2 → q0 → q1 → q2 → q0 → q1 → q2 → q0 → q3 → q4` |
 | 3 | `00111` | REJEITA | REJEITA | `q0 → q1 → q2 → q0 → q1 → q2 → q0 → q3 → q5` |
 
+### Teste JFLAP
+![Uploading Teste JFLAP.jpg…]()
+
 ---
 
 ## Etapa 4 — Reflexão sobre os limites computacionais
