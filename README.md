@@ -1,8 +1,7 @@
 # Atividade Remota — Máquinas de Turing
 
-**Disciplina:** Teoria da Computação  
+**Disciplina:** Linguagens Formais e Autômatos 
 **Tema:** Máquinas de Turing  
-**Modalidade:** Remota  
 
 ## Objetivo
 
